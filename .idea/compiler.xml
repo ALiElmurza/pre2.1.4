@@ -10,8 +10,5 @@
         <module name="pre2.1.4" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="pre2.1.4" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
